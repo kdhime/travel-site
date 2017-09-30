@@ -1,0 +1,11 @@
+body {
+  color:#2f5572;
+  padding: 25px;
+  -webkit-columns:400px;
+          columns:400px;
+}
+
+.box a {
+    display: block;
+    padding: 10px;
+  }

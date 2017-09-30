@@ -19,5 +19,14 @@
   "dependencies": {
     "jquery": "^3.2.1",
     "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {
+    "auto-prefixer": "^0.4.2",
+    "autoprefixer": "^7.1.4",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-nested": "^2.1.2",
+    "postcss-simple-vars": "^4.1.0"
   }
 }
